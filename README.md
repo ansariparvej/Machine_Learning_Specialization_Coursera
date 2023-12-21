@@ -12,12 +12,10 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 ## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
 
 - [Week 1](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1)
-
     
 <br/>
 
 - [Week 2](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2) 
-
   
 <br/>
 
@@ -37,7 +35,6 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 - [Week 2](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week2)
     
-
 <br/>
 
 - [Week 3](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week3)
@@ -57,11 +54,9 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 - [Week 1](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week1)
 
-
 <br/>
 
 - [Week 2](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week2)
-    
 
 <br/>
 
@@ -70,13 +65,9 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 #### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/MGTY7TNESDQF)
 
 
-### [Specialization Certificate]([https://coursera.org/share/a15ac6426f90924491a542850700a759](https://www.coursera.org/account/accomplishments/specialization/ALRBST3F52B7))
+### [Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/ALRBST3F52B7)
 
 <br/>
-
-<br/>
-
-<hr/>
 
 
 ### Course Review :
