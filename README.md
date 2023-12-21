@@ -1,6 +1,5 @@
 # Machine Learning Specialization Coursera
 
-
 ![](/resources/title-head.png)
 
 Contains Solutions and Notes for the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction/?utm_medium=coursera&utm_source=home-page&utm_campaign=mlslaunch2022IN) by Andrew NG on Coursera 
@@ -19,7 +18,6 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
     
 #### [Certificate Of Completion](https://www.coursera.org/account/accomplishments/verify/5JHGE54R66HQ)
 
-<br/>
 
 ## Course 2 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
 
@@ -30,15 +28,12 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 - Apply best practices for machine learning development so that your models generalize to data and tasks in the real world
  Build and use decision trees and tree ensemble methods, including random forests and boosted trees
 
-<br/>
 
 #### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/CNCKB2L9M5KQ)        
 
-<br/>
 
 ## Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 
-<br/>
 
 ### What you'll learn
 
@@ -53,7 +48,6 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 ### [Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/ALRBST3F52B7)
 
-<br/>
 
 ### Course Review :
 
@@ -61,9 +55,6 @@ This Course is a best place towards becoming a Machine Learning Engineer. Even i
 
 **Special thanks to [Professor Andrew Ng](https://www.andrewng.org/) for structuring and tailoring this Course.**
 
-<br/>
-
-<hr/>
 
 #### An insight of what you might be able to accomplish at the end of this specialization :
 
