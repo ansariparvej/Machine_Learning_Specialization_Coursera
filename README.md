@@ -11,16 +11,11 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 ## Course 1 : [Supervised Machine Learning: Regression and Classification ](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
 
-- [Week 1](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week1)
-    
-<br/>
+### What you'll learn
 
-- [Week 2](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week2) 
-  
-<br/>
+- Build machine learning models in Python using popular machine learning libraries NumPy & scikit-learn
 
-- [Week 3](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/week3)
-
+- Build & train supervised machine learning models for prediction & binary classification tasks, including linear regression & logistic regression
     
 #### [Certificate Of Completion](https://www.coursera.org/account/accomplishments/verify/5JHGE54R66HQ)
 
@@ -28,21 +23,14 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 ## Course 2 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
 
-- [Week 1](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week1)
-    
+### What you'll learn
 
-  <br/>
+- Build and train a neural network with TensorFlow to perform multi-class classification
 
-- [Week 2](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week2)
-    
+- Apply best practices for machine learning development so that your models generalize to data and tasks in the real world
+ Build and use decision trees and tree ensemble methods, including random forests and boosted trees
+
 <br/>
-
-- [Week 3](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week3)
-    
-<br/>
-
-
-- [Week 4](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week4)
 
 #### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/CNCKB2L9M5KQ)        
 
@@ -52,15 +40,13 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 
 <br/>
 
-- [Week 1](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week1)
+### What you'll learn
 
-<br/>
+- Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection
 
-- [Week 2](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week2)
+- Build recommender systems with a collaborative filtering approach and a content-based deep learning method
 
-<br/>
-
-- [Week 3](https://github.com/ansariparvej/Machine-Learning-Specialization-Coursera/tree/main/C3%20-%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week3)
+- Build a deep reinforcement learning model
     
 #### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/MGTY7TNESDQF)
 
@@ -68,7 +54,6 @@ Contains Solutions and Notes for the [Machine Learning Specialization](https://w
 ### [Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/ALRBST3F52B7)
 
 <br/>
-
 
 ### Course Review :
 
